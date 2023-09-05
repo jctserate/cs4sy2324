@@ -59,7 +59,7 @@ public class CS4PhotonSerate {
     System.out.print(" for the longest time.");
 
     // Comparison 2: Checking if my skill level in Badminton is Beginner (Comparison)
-    System.out.println("\nMy skill level in Badminton is Beginner: " + (sport.skill2 == "Beginner") + '.');
+    System.out.println("\nMy skill level in Badminton is Beginner: " + (sport.skill2 == "Beginner"));
     
     // Comparison 3: Checking if my skill level in Frisbee is the same as my skill level in Volleyball (Comparison)
     System.out.println("My skill level in Frisbee and Volleyball are the same: " + (sport.skill1 == sport.skill3));
@@ -67,8 +67,3 @@ public class CS4PhotonSerate {
     }
 }
   
-    
-
-  
-  
-    
