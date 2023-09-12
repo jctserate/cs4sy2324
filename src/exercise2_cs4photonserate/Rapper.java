@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Main;
+package exercise2_cs4photonserate;
 
 /**
  *
- * @author PHOTON
+ * @author PHOTON SERATE
  */
 public class Rapper {
     String stagename, realname, birthplace, monthlyspotify;
